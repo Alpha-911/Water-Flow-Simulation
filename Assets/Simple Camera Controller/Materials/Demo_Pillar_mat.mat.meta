@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 74b913bade249044a89fb85d3f338fa2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159957
+  packageName: Simple Camera Controller
+  packageVersion: 1.0
+  assetPath: Assets/Simple Camera Controller/Materials/Demo_Pillar_mat.mat
+  uploadId: 344708

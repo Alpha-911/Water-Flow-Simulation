@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: af8abda721d1cbf4d901975867c6766f
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 159957
+  packageName: Simple Camera Controller
+  packageVersion: 1.0
+  assetPath: Assets/Simple Camera Controller/DemoScene/Demo.unity
+  uploadId: 344708
